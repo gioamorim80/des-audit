@@ -1,6 +1,6 @@
 # des-audit
 
-A store's chat assistant can offer a shopper nothing, a discount or free shipping. If a model reads each chat and returns a few probabilities (is price the obstacle, has shipping cost come up), the store can ask whether those readings tell it whom an offer moves, or only who was going to buy anyway. `des-audit` answers that from the store's own randomized decision log. It is three commands over one file and depends on numpy and pandas.
+A store's chat assistant can offer a shopper nothing, a discount or free shipping. If a model reads each chat and returns a few probabilities (is price the obstacle, has shipping cost come up), the store can ask whether those readings tell it whom an offer moves, or only who was going to buy anyway. `des-audit` answers that from the store's own randomized decision log. 
 
 ## Install
 
